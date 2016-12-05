@@ -2,7 +2,7 @@
 # Leia a introdução.
 
 *Agradecimentos*  
-+ *Núcleo Estudantil de Design de JogosDigitais*  
++ *Núcleo Estudantil de Design de Jogos Digitais*  
 + *Antonio Jose Goncalves Mourao*  
 + *Todos os participantes e organizadores que dedicam seu tempo livre*  
 
