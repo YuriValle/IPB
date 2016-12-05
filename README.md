@@ -1,5 +1,4 @@
 # IPB -Atualizacão sem aviso prévio.
-# |Última Atualização em 02/12/2016|
 # Leia a introdução.
 
 *Agradecimentos*  
