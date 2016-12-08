@@ -20,15 +20,25 @@ Sessão 01 - 23-11-2016
 + Uma explicação do que é programação / linguagem de programação e seu surgimento.  
     
 Sessão 02 - 29-11-2016  
-+ Breve explicação sobre o que é o C-FREE / IDE.  
-+ Breve explicação sobre o famoso "Olá Mundo".  
-+ Foco da sessão - printf e scanf.  
-+ Desenhos.  
-+ Caracteres de escape. \n \t  
++ Breve explicação sobre o que é o C-FREE / IDE  
++ Breve explicação sobre o famoso "Olá Mundo"  
++ Foco da sessão - printf e scanf  
++ Pratica - Desenhos  
++ Caracteres de escape
   
 Sessão 03 - 06/12/2016 e 07/12/2016  
 + Lógica básica  
-+ IF/ELSE  
-+ FOR  
-+ WHILE  
-+ DO  
++ If / Else  
++ For  
++ While  
++ Do  
+  
+Sessão 04 - 13/12/2016  
++ Subprogramas  
++ Função / Procedimento / Método  
++ Double, Float, Array ou Vetor 
++ Prática - Calculadora  
+  
+Sessão 05 - 14/12/2016    
++ Prática - Jogo das perguntas  
++ Prática - Jogo do galo  
