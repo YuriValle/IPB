@@ -36,9 +36,10 @@ Sessão 03 - 06/12/2016 e 07/12/2016
 Sessão 04 - 13/12/2016  
 + Subprogramas  
 + Função / Procedimento / Método  
-+ Double, Float, Array ou Vetor 
 + Prática - Calculadora  
-  
-Sessão 05 - 14/12/2016    
-+ Prática - Jogo das perguntas  
 + Prática - Jogo do galo  
+  
+Sessão 05 - 14/12/2016  
++ Variáveis: Char, Int, Float e Double.  
++ Tipos de Dados: Array/Vetor e String.  
++ Prática - Jogo a decidir
