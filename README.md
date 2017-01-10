@@ -15,9 +15,9 @@ Todas as sessões de estudo são TOTALMENTE GRATUITAS, pedimos apenas respeito a
 RESUMO:  
   
 Sessão 01 - 23-11-2016  
-+ Apresentação pessoal do líder do grupo de estudo.  
-+ Objetivo das sessões de estudo.  
-+ Uma explicação do que é programação / linguagem de programação e seu surgimento.  
++ Apresentação pessoal do líder do grupo de estudo  
++ Objetivo das sessões de estudo  
++ Uma explicação do que é programação / linguagem de programação e seu surgimento  
     
 Sessão 02 - 29-11-2016  
 + Breve explicação sobre o que é o C-FREE / IDE  
@@ -40,6 +40,18 @@ Sessão 04 - 13/12/2016
 + Prática - Jogo do galo  
   
 Sessão 05 - 14/12/2016  
-+ Variáveis: Char, Int, Float e Double.  
-+ Tipos de Dados: Array/Vetor e String.  
++ Variáveis: Char, Int, Float e Double  
++ Tipos de Dados: Array/Vetor e String  
 + Prática - Jogo a decidir
+
+Sessão 06 - 04/01/2017  
++ Revisão: Sintaxe (printf, scanf, if, for, while e funcao)  
++ Tipos de Dados: Número inteiro. 
++ Prática - Caixa Eletronica (Multibanco)  
+
+Sessão 07 - 10/02/2017    
++ Tipos de Dados: Array/Vetor, número inteiro e real.  
++ Prática - Continuação da Caixa Eletronica (Multibanco)  
+
+Sessão 08 - 11/02/2017  
++ Conteúdo a decidir
