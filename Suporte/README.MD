@@ -22,5 +22,5 @@ S07E01: Caixa Eletronica (Multibanco) Versão 2.0
 S08E01: Caixa Eletronica (Multibanco) Versão 3.0  
 S08E02: Array de Strings  
 S08E03: Tamanho do Array  
-S08E04: Valor booleano
+S08E04: Valor booleano  
 S08E05: Comparação de Strings  
