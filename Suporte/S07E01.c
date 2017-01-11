@@ -54,7 +54,7 @@ int main(){
 					saldo = saldo + credito;
 					break;
 		}
-}
+	}
 }
 float levantarDinheiro(float saldo, float debito){
 	if(saldo - debito < 0){
