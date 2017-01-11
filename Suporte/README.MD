@@ -17,4 +17,5 @@ S03E07: Tabuada sem estrutura de repetição
 S03E08: Tabuada com estrutura de repetição FOR  
 S03E09: Uso pratico do WHILE  
 S03E10: Uso pratico do DO    
-S06: Caixa Eletronica (Multibanco)  
+S06: Caixa Eletronica (Multibanco) Versão 1.0  
+S07: Caixa Eletronica (Multibanco) Versão 2.0  
