@@ -17,5 +17,10 @@ S03E07: Tabuada sem estrutura de repetição
 S03E08: Tabuada com estrutura de repetição FOR  
 S03E09: Uso pratico do WHILE  
 S03E10: Uso pratico do DO    
-S06: Caixa Eletronica (Multibanco) Versão 1.0  
-S07: Caixa Eletronica (Multibanco) Versão 2.0  
+S06E01: Caixa Eletronica (Multibanco) Versão 1.0  
+S07E01: Caixa Eletronica (Multibanco) Versão 2.0  
+S08E01: Caixa Eletronica (Multibanco) Versão 3.0  
+S08E02: Array de Strings  
+S08E03: Tamanho do Array  
+S08E04: Valor booleano
+S08E05: Comparação de Strings  
