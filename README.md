@@ -54,4 +54,7 @@ Sessão 07 - 10/02/2017
 + Prática - Continuação da Caixa Eletronica (Multibanco)  
 
 Sessão 08 - 11/02/2017  
-+ Conteúdo a decidir
++ Tipos de Dados: Array/Vetor, strings.  
++ Comparação de Strings  
++ Tamanho do Array/Vetor
++ Prática: Continuação da Caixa Eletronica (Multibanco)
