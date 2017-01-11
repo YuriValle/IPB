@@ -18,6 +18,8 @@ S03E08: Tabuada com estrutura de repetição FOR
 S03E09: Uso pratico do WHILE  
 S03E10: Uso pratico do DO  
 
+S04E01: Calculadora Versão 1.0  
+
 S06E01: Caixa Eletronica (Multibanco) Versão 1.0 
 
 S07E01: Caixa Eletronica (Multibanco) Versão 2.0 
