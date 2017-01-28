@@ -1,5 +1,4 @@
-# IPB -Atualizacão sem aviso prévio.
-# Leia a introdução.
+# IPB - Boa sorte.
 
 *Agradecimentos*  
 + *Núcleo Estudantil de Design de Jogos Digitais*  
@@ -58,3 +57,18 @@ Sessão 08 - 11/02/2017
 + Comparação de Strings  
 + Tamanho do Array/Vetor
 + Prática: Continuação da Caixa Eletronica (Multibanco)
+
+Sessão 09 - 17/02/2017  
++ Preparação para o exame C  
+
+Sessão 10 - 18/02/2017  
++ Preparação para o exame C  
+
+Sessão 11 - 24/02/2017  
++ Preparação para o exame algoritmia
+
+Sessão 12 - 25/02/2017  
++ Preparação para o exame algoritmia
+
+Sessão 13 - 26/02/2017  
++ Preparação para o Exame algoritmia
