@@ -10,6 +10,7 @@ int main(){
 	if(1){
 		printf("Valor e 1\n");
 	}
+	/*
 	if(!-1){
 		printf("Valor e !-1\n");
 	}
@@ -19,4 +20,5 @@ int main(){
 	if(!1){
 		printf("Valor e !1\n");
 	}
+	*/
 }

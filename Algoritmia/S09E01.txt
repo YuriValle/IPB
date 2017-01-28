@@ -1,0 +1,22 @@
+Nome: Escreve Nome
+
+INICIO
+	ESCREVER("        X   X   X   X   XXXX     XXX");
+	ESCREVER("        X   X   X   X   X   X     X");
+	ESCREVER("         X X    X   X   X   X     X");
+	ESCREVER("         X X    X   X   X  X      X");
+	ESCREVER("          X     X   X   XXXX      X");
+	ESCREVER("          X     X   X   X X       X");
+	ESCREVER("          X     X   X   X  X      X");
+	ESCREVER("          X     XXXXX   X   X    XXX");
+	ESCREVER("");
+	ESCREVER("");
+	ESCREVER("   X   X    XXX    X       X       XXXXX");
+	ESCREVER("   X   X   X   X   X       X       X");
+	ESCREVER("   X   X   X   X   X       X       X");
+	ESCREVER("    X X    X   X   X       X       XXXXX");
+	ESCREVER("    X X    X   X   X       X       X");
+	ESCREVER("    X X    XXXXX   X       X       X");
+	ESCREVER("     X     X   X   X       X       X");
+	ESCREVER("     X     X   X   XXXXX   XXXXX   XXXXX");
+FIM

@@ -1,0 +1,17 @@
+Nome: Estrutura do IF
+primeiroNumero, segundoNumero : INTEIRO
+
+INICIO
+	primeiroNumero <-- 5;
+	segundoNumero <-- 6;
+
+	SE (primeiroNumero > segundoNumero) ENTAO
+		ESCREVER("O primeiro numero e maior do que o segundo numero.");
+	FIMSE
+	SE (primeiroNumero < segundoNumero) ENTAO
+		ESCREVER("O primeiro numero e menor do que o segundo numero.");
+	FIMSE
+	SE (primeiroNumero = segundoNumero) ENTAO
+		ESCREVER("O primeiro numero e igual ao segundo numero.");
+	FIMSE
+FIM

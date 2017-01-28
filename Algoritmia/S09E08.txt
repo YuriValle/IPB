@@ -1,0 +1,57 @@
+NOME: Calculadora
+primeiroNumero, segundoNumero, opcao : INTEIRO;
+resultado : REAL;
+INICIO
+	FAZER
+		mostraMenu();
+		CASO opcao IGUAL
+			1 : perguntaNumeros();
+				resultado <-- soma();
+				ESCREVER("O resultado e: ", resultado);
+				mostraMenu();
+			2 : perguntaNumeros();
+				resultado <-- subtracao();
+				ESCREVER("O resultado e: ", resultado);
+				mostraMenu();
+			3 : perguntaNumeros();
+				resultado <-- multiplicacao();
+				ESCREVER("O resultado e: ", resultado);
+				mostraMenu();
+			4 : perguntaNumeros();
+				resultado <-- divisao();
+				ESCREVER("O resultado e: ", resultado);
+				mostraMenu();
+		FIMCASO
+	ENQUANTO opcao ≠ 99
+FIM
+
+SUB mostraMenu(): VOID
+INICIO
+	ESCREVER("1 - Soma");
+	ESCREVER("2 - Subtracao");
+	ESCREVER("3 - Multiplicacao");
+	ESCREVER("4 - Divisao");
+	LER(opcao);
+FIM
+SUB perguntaNumeros(): VOID
+	ESCREVER("Digite o primeiro valor.");
+	LER(primeiroNumero);
+	ESCREVER("Digite o segundo valor.");
+	LER(segundoNumero);
+}
+SUB soma(): INTEIRO
+INICIO
+	RETORNAR a + b;
+FIM
+SUB subtracao(): INTEIRO
+INICIO
+	RETORNAR a - b;
+FIM
+SUB multiplicacao(): INTEIRO
+INICIO
+	RETORNAR a * b;
+FIM
+SUB divisao(): REAL
+INICIO
+	RETORNAR a / b;
+FIM

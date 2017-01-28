@@ -1,0 +1,37 @@
+NOME : Jogo das perguntas
+
+resposta : INTEIRO
+
+INICIO
+	ESCREVER("Jogo das perguntas:");
+	ESCREVER("Primeira pergunta:");
+	ESCREVER("Quando usamos o scanf temos de usar o & ?");
+	ESCREVER("1 - Sim 2 - Nao");
+	LER(resposta);
+	SE(resposta = 2) ENTAO
+		ESCREVER("Oh noes :(Tente novamente. :p");
+	FIMSE
+	ESCREVER("Segunda pergunta:");
+	ESCREVER("Quando usamos o ESCREVER temos de usar o & ?");
+	ESCREVER("1 - Sim 2 - Nao");
+	LER(resposta);
+	SE(resposta = 1) ENTAO
+		ESCREVER("Oh noes :(Tente novamente. :p");
+	FIMSE
+	ESCREVER("Terceira pergunta:");
+	ESCREVER("Qual das formas de escrever esta certa?");
+	ESCREVER("1 - ESCREVER("&d", %nomeDaVariavel);");
+	ESCREVER("2 - ESCREVER("%d", nomeDaVariavel);");
+	LER(resposta);
+	SE(resposta = 1) ENTAO
+		ESCREVER("Oh noes :(Tente novamente. :p");
+	FIMSE
+	ESCREVER("Qual das formas de ler esta certa?");
+	ESCREVER("1 - scanf("&d", %nomeDaVariavel);");
+	ESCREVER("2 - scanf("%d", &nomeDaVariavel);");
+	scanf("%d", &resposta);
+	SE (resposta = 1)
+		ESCREVER("Oh noes :(Tente novamente. :p");
+	FIMSE
+	ESCREVER("Parabens, voce venceu!");
+ FIM

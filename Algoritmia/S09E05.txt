@@ -1,0 +1,11 @@
+Nome: UsoPraticoDoWhile
+
+num: INTEIRO;
+
+INICIO
+	num <-- 0;
+	ENQUANTO numero < 10 FAZER
+		ESCREVER("Digite um numero maior do que 10: ");
+		LER(num);
+	FIMENQUANTO
+FIM

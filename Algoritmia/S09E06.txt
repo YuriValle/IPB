@@ -1,0 +1,10 @@
+NOME: Tabuada_com_estrutura_de_repetição_FOR
+i,num:INTEIRO;
+INICIO
+	ESCREVER("tabuada");
+	ESCREVER("Digite um numero intero e saiba a tabuada ate 5");
+	LER(num);
+	PARA i<--1 ATE 5 PASSO 1 FAZER
+		ESCREVER(i,_ x ",num, " = ", num*i );
+	FIMPARA	
+FIM

@@ -7,6 +7,6 @@ int main(){
 	printf("Digite o nome: ");
 	scanf("%s", &nome);
 	if(!strcmp(nome,nomes[0])){
-		printf("Nome OK\n");
+		printf("Nome digitado OK - Bruce - \n");
 	}
 }

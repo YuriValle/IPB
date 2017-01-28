@@ -1,0 +1,10 @@
+NOME: EstruturaDoWhile
+
+contador: INTEIRO;
+
+INICIO
+	contador <-- 0;
+	ENQUANTO (contador < 10) FAZER
+		ESCREVER(contador);
+	FIMENQUANTO
+FIM

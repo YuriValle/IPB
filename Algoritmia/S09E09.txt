@@ -1,0 +1,41 @@
+Desenvolva um programa, em linguagem algorítmica, capaz de preencher um vetor de 25
+elementos do tipo real com valores introduzidos pelo utilizador.
+
+NOME testadorDeVetor
+vetor[0..24] : REAL;
+i : INTEIRO;
+INICIO
+	PARA i <-- 0 ATE 24 PASSO 1 FAZER
+		ESCREVER("SFF digite um numero real. :D");
+		LER(vetor[i]);
+	FIMPARA
+	ESCREVER(diferenca(vetor,25));
+FIM1
+
+
+Recebendo via argumento um vetor de elementos do tipo real. vetor[0..24]
+O tamanho do vetor. 25
+Calcule e devolva a diferença entre o maior e o menor.
+
+TAMANHO do VETOR 25
+
+
+SUB diferenca (INOUT VETOR[] : REAL, INOUT TAMANHO : INTEIRO) : REAL
+i : INTEIRO;
+maior, menor : REAL;
+diferenca : REAL;
+
+maior = vetor[0];
+menor = vetor[0];
+
+PARA i <-- 1 ATE TAMANHO-1 PASSO 1 FAZER
+	SE 	(vetor[i] > maior) ENTAO
+		maior <-- vetor[i];
+	FIMSE
+	SE (vetor[i] < menor) ENTAO
+		menor <-- vetor[i];
+	FIMSE
+FIMPARA
+diferenca <-- maior - menor;
+RETORNAR diferenca;
+FIMSUB
