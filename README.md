@@ -71,4 +71,4 @@ Sessão 12 - 25/02/2017
 + Preparação para o exame algoritmia
 
 Sessão 13 - 26/02/2017  
-+ Preparação para o Exame algoritmia
++ Preparação para o exame algoritmia
